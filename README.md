@@ -3,3 +3,8 @@
 ## About Demo
 
 This demo is made with using Laravel Tailwindcss Vue & Skycons Icons to practice the aspect of Front & Back-end  
+
+#compser install
+#npm install
+#php artisan serve
+#npm run dev
